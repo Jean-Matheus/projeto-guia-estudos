@@ -1,0 +1,70 @@
+.fundo {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.texto-portal {
+    position: fixed;
+    top: 230px;
+    left: 50px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-portal {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 20px;
+}
+
+.texto-microsoft-365 {
+    position: fixed;
+    top: 230px;
+    left: 270px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-microsoft-365 {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 270px;
+}
+
+.texto-outlook {
+    position: fixed;
+    top: 230px;
+    left: 910px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-outlook {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 880px;
+}
+
+.texto-teams {
+    position: fixed;
+    top: 230px;
+    left: 1175px;
+    font-family: 'Arial';
+    color: #000;
+    text-transform: uppercase;
+}
+
+.foto-teams {
+    position: fixed;
+    width: 10%;
+    top: 250px;
+    left: 1130px;
+}
+
